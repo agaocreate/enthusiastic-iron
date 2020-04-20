@@ -1,7 +1,7 @@
 ---
-title: Project Title 1
+title: Project Title 1 hey jude don't make it bad
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
+date: 2019-05-10
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
 template: project
